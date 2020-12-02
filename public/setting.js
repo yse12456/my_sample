@@ -1,2 +1,2 @@
 const login_name = 'test';
-const password = '12345'
+const password = '12345';
