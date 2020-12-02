@@ -2,6 +2,6 @@
 - This is my project
 - Hello
 
-## profile0
+## profile
 ### name
 - Praneeth Niranga
